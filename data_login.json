@@ -1,0 +1,18 @@
+
+[
+  {
+    "username": "test.admin@visa.com",
+    "password": "test.admin@visa.com",
+    "type": "valid"
+  },
+  {
+    "username": "wronguser1@example.com",
+    "password": "wrongpass1",
+    "type": "invalid"
+  },
+  {
+    "username": "wronguser2@example.com",
+    "password": "wrongpass2",
+    "type": "invalid"
+  }
+]
